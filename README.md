@@ -15,7 +15,7 @@ O objetivo deste projeto é desenvolver um aplicativo Android usando Kotlin e Je
    - Projetar o layout da interface de usuário para a tela para exibir itens inativos e reativá-los.
 
 3. **Modelo de Dados:**
-   - Definir o modelo de dados para os itens, incluindo atributos como Nome, Data de Nascimento, CPF, Cidade, Foto e Status Ativo.
+   - Definir o modelo de dados para os itens, incluindo atributos como Nome, Data de Nascimento, CPF, Cidade, Foto e Status.
 
 4. **Implementação do ViewModel:**
    - Criar classes ViewModel para lidar com a lógica de negócios para cada tela.
