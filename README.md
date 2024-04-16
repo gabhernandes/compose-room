@@ -45,7 +45,7 @@ O objetivo deste projeto é desenvolver um aplicativo Android usando Kotlin e Je
 
 ## Descrição Detalhada do Aplicativo:
 
-O aplicativo permite que os usuários gerenciem uma lista de itens com os seguintes atributos: Nome, Data de Nascimento, CPF (ID), Cidade, Foto e Status Ativo. A tela principal exibe uma lista de itens ativos, mostrando a foto, nome e idade de cada item. A partir desta tela, os usuários podem realizar as seguintes ações:
+O aplicativo permite que os usuários gerenciem uma lista de itens com os seguintes atributos: Nome, Data de Nascimento, CPF, Cidade, Foto e Status Ativo. A tela principal exibe uma lista de itens ativos, mostrando a foto, nome e idade de cada item. A partir desta tela, os usuários podem realizar as seguintes ações:
 
 - **Inserir:** Os usuários podem adicionar um novo item navegando para uma tela separada e fornecendo as informações necessárias.
 - **Editar:** Os usuários podem editar os detalhes de um item existente selecionando-o na lista e navegando para uma tela de edição separada.
