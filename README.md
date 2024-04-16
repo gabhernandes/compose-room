@@ -1,6 +1,6 @@
 # Overview
 
-O objetivo deste projeto é desenvolver um aplicativo Android usando Kotlin e Jetpack Compose seguindo a arquitetura MVVM. O aplicativo fornecerá funcionalidades para gerenciar uma lista de itens com as seguintes ações: Inserir, Editar, Desativar e Ativar. Cada item terá atributos incluindo Nome, Data de Nascimento, CPF (ID), Cidade, Foto e Status Ativo. A tela principal exibirá uma lista de itens ativos, permitindo que os usuários realizem essas ações diretamente da tela principal. Além disso, haverá uma tela separada para listar itens inativos e reativá-los.
+O objetivo deste projeto é desenvolver um aplicativo Android usando Kotlin e Jetpack Compose seguindo a arquitetura MVVM. O aplicativo fornecerá funcionalidades para gerenciar uma lista de itens com as seguintes ações: Inserir, Editar, Desativar e Ativar. Cada item terá atributos incluindo Nome, Data de Nascimento, CPF (ID), Cidade, Foto e Status. A tela principal exibirá uma lista de itens ativos, permitindo que os usuários realizem essas ações diretamente da tela principal. Além disso, haverá uma tela separada para listar itens inativos e reativá-los.
 
 ## Fases de Desenvolvimento:
 
