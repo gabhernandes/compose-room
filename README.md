@@ -49,9 +49,7 @@ O aplicativo permite que os usuários gerenciem uma lista de itens com os seguin
 
 - **Inserir:** Os usuários podem adicionar um novo item navegando para uma tela separada e fornecendo as informações necessárias.
 - **Editar:** Os usuários podem editar os detalhes de um item existente selecionando-o na lista e navegando para uma tela de edição separada.
-- **Desativar:** Os usuários podem desativar um item ativo diretamente da tela principal alternando um interruptor ou selecionando uma opção de desativar.
+- **Desativar:** Os usuários podem desativar um item ativo diretamente da tela principal alternando o switch ou selecionando uma opção de desativar.
 - **Ativar:** Os usuários podem reativar itens inativos em uma tela separada listando os itens inativos.
 
 O aplicativo segue a arquitetura MVVM, onde as classes ViewModel lidam com a lógica de negócios para cada tela, e as classes Repository atuam como uma camada de abstração entre o ViewModel e o banco de dados local. O banco de dados local é implementado usando a Room Persistence Library, fornecendo uma solução de armazenamento confiável para os dados dos itens.
-
-No geral, o aplicativo fornece uma interface amigável para gerenciar uma lista de itens, permitindo que os usuários realizem várias ações de forma fácil, seguindo as melhores práticas modernas de desenvolvimento Android.
